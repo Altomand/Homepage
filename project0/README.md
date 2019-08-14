@@ -1,3 +1,3 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+A website that contains a list of some of my favorite things.
